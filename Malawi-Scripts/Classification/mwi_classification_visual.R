@@ -32,7 +32,6 @@ library(ggmap)
 library(data.table)
 library(gtable)
 
-register_google('AIzaSyCkzfrf97_ckO1wzMt_Ejj6982htNOlmVQ')
 
 ################################################################
 #########   set parameters
